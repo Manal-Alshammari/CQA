@@ -12,10 +12,11 @@ calculate the similarity and alignment between them and produce the final result
 percentage.
 
 CQA final percentage indicate how much the course is aligned with the academic 
-program goals and aim based on the provided SO and CLO. And the final decision 
-about is the course aligned with the program goals or not is subjective, which means
-the curriculum development community will decide whether the course is suitable 
-and serves program goals, or it should be replaced with another course more aligned
+program goals and aim based on the provided SO and CLO. 
+And the final decision about is the course aligned with the program goals or not is 
+subjective, which means the curriculum development community will decide whether the
+course is suitable and serves program goals, or it should be replaced with another 
+course more aligned
 to the program.
 
 
@@ -27,7 +28,8 @@ to the program.
  - YAKE package
 
 `pip install git+https://github.com/LIAAD/yake`
- - Sentence Transformer package 
+ 
+- Sentence Transformer package 
 
 `pip install -U sentence-transformers`
 
