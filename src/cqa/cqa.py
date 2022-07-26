@@ -8,7 +8,6 @@ import yake
 def _generate_keywords(file):
     keywords_extractor = yake.KeywordExtractor()
     keywords_scored = keywords_extractor.extract_keywords(file)
-    # This a list for all keywords WITHOUT its scores- using YAKE algorithm
     yake_keywords = [word[0] for word in keywords_scored]
     return yake_keywords
 
