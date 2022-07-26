@@ -8,7 +8,8 @@ student outcomes(SO) and courses learning outcomes (CLO).***
 ---
 
 CQA just need the two files (SO file & CLO file), after provide the files CQA will 
-calculate the similarity and alignment between them.
+calculate the similarity and alignment between them and produce the final result as
+percentage.
 
 CQA final percentage indicate how much the course is aligned with the academic 
 program goals and aim based on the provided SO and CLO. And the final decision 
