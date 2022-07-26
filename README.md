@@ -25,7 +25,9 @@ to the program.
 
 ### Requirements are:
 - YAKE package
+  'pip install git+https://github.com/LIAAD/yake'
 - SentenceTransformer package 
+  'pip install -U sentence-transformers'
 
 
 
