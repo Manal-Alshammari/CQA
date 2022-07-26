@@ -27,7 +27,7 @@ to the program.
  - YAKE package
 
 `pip install git+https://github.com/LIAAD/yake`
- - SentenceTransformer package 
+ - Sentence Transformer package 
 
 `pip install -U sentence-transformers`
 
