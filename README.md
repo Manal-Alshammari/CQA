@@ -13,7 +13,7 @@ percentage.
 
 CQA final percentage indicate how much the course is aligned with the academic 
 program goals and aim based on the provided SO and CLO. And the final decision 
-about is the course aligned withe program goal or not is subjective, which means
+about is the course aligned with the program goal or not is subjective, which means
 the curriculum development community will decide whether the course is suitable 
 and serves program goals, or it should be replaced with another course more aligned
 to the program.
