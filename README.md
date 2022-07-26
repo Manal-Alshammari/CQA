@@ -33,5 +33,8 @@ to the program.
 
 `pip install -U sentence-transformers`
 
+- Sklearn package
+
+`pip install -U scikit-learn`
 
 
